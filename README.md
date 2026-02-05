@@ -1,6 +1,6 @@
 ## Hi, I’m Anand J Ganesh
 
-Analytics-focused Data Analyst with hands-on experience building dashboards, automating reports, and delivering insights across healthcare, environmental, and industrial domains. I’ve worked with large, real-world datasets and collaborated with cross-functional teams to support data-driven decision-making.
+Analytics-focused Data Scientist with hands-on experience building dashboards, automating reports, and delivering insights across healthcare, environmental, and industrial domains. I’ve worked with large, real-world datasets and collaborated with cross-functional teams to support data-driven decision-making.
 
 ### Core Skills
 - SQL (MySQL, PostgreSQL – joins, aggregations, CTEs)
